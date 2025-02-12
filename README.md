@@ -15,5 +15,5 @@ Examination, 2 hours (50%)
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 4 \
+**Current**: 7 \
 **Hours per day needed**: ?
